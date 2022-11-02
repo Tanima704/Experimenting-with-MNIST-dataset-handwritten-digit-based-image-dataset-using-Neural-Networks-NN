@@ -1,4 +1,4 @@
-#Experimenting with MNIST dataset (handwritten digit-based image dataset) using Neural Networks (NN)
+# Experimenting with MNIST dataset (handwritten digit-based image dataset) using Neural Networks (NN)
 Experimented to find a setting for batch size and max_iter, so that the MLP Classifier fit function converges.
 Researching whether the second-best prediction matches the label where first best prediction was misclassified
 Check whether the NN learning resembles the human learning with respect to similar digits, e.g., 6 and 9, 1 and 7, 3 and 5 etc.
